@@ -4,7 +4,7 @@ Here’s a README.md file for the Day 1 project, OpenWeather-API-Demo:
 
 This project is part of the **30-Day DevOps All-Stars Challenge**, focusing on building a weather dashboard that interacts with the **OpenWeather API** and AWS S3 to fetch, process, and store real-time weather data. 🚀
 
-📺 **YouTube Video Tutorial**: [Watch Here](https://www.youtube.com/watch?v=4smNS8XSHx0&t=1s)
+📺 **YouTube Video**: [Watch Here](https://www.youtube.com/watch?v=4smNS8XSHx0&t=1s)
 
 ---
 
