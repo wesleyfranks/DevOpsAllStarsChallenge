@@ -40,12 +40,12 @@ This project is part of the **30-Day DevOps All-Stars Challenge**, focusing on b
    git clone https://github.com/wesleyfranks/OpenWeather-API-Demo.git
    cd OpenWeather-API-Demo
 
-	2.	Install dependencies:
+	2. Install dependencies:
 
 pip install -r requirements.txt
 
 
-	3.	Create a .env file to store your environment variables:
+	3. Create a .env file to store your environment variables:
 
 touch .env
 
@@ -55,16 +55,16 @@ OPENWEATHER_API_KEY=your_openweather_api_key
 AWS_BUCKET_NAME=your_bucket_name
 
 
-	4.	Set up AWS credentials to interact with S3:
-	•	Refer to AWS CLI Configuration.
+	4. Set up AWS credentials to interact with S3:
+	- Refer to AWS CLI Configuration.
 
 Run the Program
-	•	Fetch weather data and save it to AWS S3:
+	- Fetch weather data and save it to AWS S3:
 
 python weather_dashboard.py run
 
 
-	•	Delete the S3 bucket and its contents:
+	- Delete the S3 bucket and its contents:
 
 python weather_dashboard.py delete
 
