@@ -69,9 +69,9 @@ python weather_dashboard.py run
 python weather_dashboard.py delete
 
 🌟 Highlights from the Challenge
-	-	Dynamic Weather Retrieval: Fetches weather data for Houston, Austin, and Dallas in real-time.
-	-	Error Handling: Improved resilience for API failures and bucket operations.
-	-	Resource Cleanup: Ensures AWS resources are cleaned up properly using the delete action.
+	- Dynamic Weather Retrieval: Fetches weather data for Houston, Austin, and Dallas in real-time.
+	- Error Handling: Improved resilience for API failures and bucket operations.
+	- Resource Cleanup: Ensures AWS resources are cleaned up properly using the delete action.
 
 📺 Video Walkthrough
 
